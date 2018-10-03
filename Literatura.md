@@ -26,7 +26,7 @@ Nós temos uma [biblioteca eletrônica](https://sites.google.com/a/monde.com.br/
 - [#111 Trabalho Remoto](https://hipsters.tech/trabalho-remoto-hipsters-111/)
 [DEVNAESTRADA](https://devnaestrada.com.br/)
 [GrokPodcast](http://www.grokpodcast.com/)
-
+GWAGWAGWAGWAGA
 
 #### Não técnicos:
 ###### [Café Brasil](http://www.portalcafebrasil.com.br/todos/podcasts/)
