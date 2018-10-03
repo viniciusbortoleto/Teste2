@@ -41,3 +41,5 @@ GWAGWAGWAGWAGA
 - [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview)
 
 [Comunicação Eficiente](Teste.md)
+
+TESTE
