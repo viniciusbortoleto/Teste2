@@ -56,3 +56,4 @@ Sempre seja positivo e objetivo em seu review. Review de código é uma ótima f
 Após o review aprovado e o PR testado, você mesmo deverá fazer o merge de seu Pull Request.
 
 Sempre utilize a opção **Squash and Merge** para fazer o merge, a não ser que tenha algum motivo onde essa opção não seja a melhor. Ao fazer o merge, edite a descrição removendo textos de commits desnecessários.
+GWGWAGGWWAWA
