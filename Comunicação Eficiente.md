@@ -6,10 +6,10 @@ Um dos maiores desafios do nosso dia a dia é se comunicar de forma eficiente ta
 - Ao se comunicar com outro departamento, respeite as ferramentas e processo deles.
 
 ## Quando usar cada ferramenta?
-- ##Chat
+### - Chat
    - Dúvidas simples ou rápidas sobre algo que você está trabalhando no momento
-   - Verificar disponibilidade de outra pessoa ou confirmar alguma informação
-- Hangout
+   - Verificar disponibilidade de outra pessoa ou confirmar alguma informaçã
+### - Hangout
   - Dúvidas mais complexas que seja mais fácil de explicar mostrando a tela ou código
   - Utilizar voz/vídeo é sempre mais eficiente que chat, use sempre que possível
 - Trello
