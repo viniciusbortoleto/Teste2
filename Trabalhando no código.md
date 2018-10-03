@@ -1,5 +1,6 @@
 # Trabalhando no Código
-
+<board>-<número do card>
+< board >-<número do card>
 ## Configuração das ferramentas
 Antes de começar a codificar, leia a documentação sobre como configurar as ferramentas e dependências dos projetos que você irá trabalhar na [Intranet de desenvolvimento](https://sites.google.com/a/monde.com.br/desenvolvimento/home).
 
