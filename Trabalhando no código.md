@@ -1,6 +1,4 @@
 # Trabalhando no Código
-<board>-<número do card>
-< board >-<número do card>
 ## Configuração das ferramentas
 Antes de começar a codificar, leia a documentação sobre como configurar as ferramentas e dependências dos projetos que você irá trabalhar na [Intranet de desenvolvimento](https://sites.google.com/a/monde.com.br/desenvolvimento/home).
 
@@ -25,7 +23,7 @@ O guia abaixo é um bom resumo dos principais recursos do git utilizados no dia 
 [Git - guia prático - sem complicação!](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 ## Branches
-Para facilitar a organização e ajudar a criar o hábito de criar cards para tudo, utilize o seguinte padrão para o nome de branches: <board>-<número do card>. Ou seja, ao corrigir um bug que está no card número 1550, sua branch terá o nome de: **bug-1550**. Uma branch para o card 1200 da board de desenvolvimento será **dsv-1200**.
+Para facilitar a organização e ajudar a criar o hábito de criar cards para tudo, utilize o seguinte padrão para o nome de branches:**< board >-<número do card>**. Ou seja, ao corrigir um bug que está no card número 1550, sua branch terá o nome de: **bug-1550**. Uma branch para o card 1200 da board de desenvolvimento será **dsv-1200**.
 
 ## Commits
 Ao commitar  suas alterações, seja claro e conciso sobre o que seu commit altera, por exemplo:
