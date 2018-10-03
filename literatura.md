@@ -1,6 +1,6 @@
 # Ciclos de trabalho
 
-## Um dos nossos valores é "Melhoria Contínua" e não existe melhoria sem mudanças. Sempre que precisamos tomar uma decisão, as coisas funcionam assim:
+#### Um dos nossos valores é "Melhoria Contínua" e não existe melhoria sem mudanças. Sempre que precisamos tomar uma decisão, as coisas funcionam assim:
 
 - Alguém propõe uma ideia (qualquer um pode propor sem medo, confiança no time)
 - O líder do time decide se é algo que deve ser discutido no momento ou não. Caso negativo, o processo morre aqui.
