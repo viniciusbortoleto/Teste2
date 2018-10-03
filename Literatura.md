@@ -39,3 +39,5 @@ Nós temos uma [biblioteca eletrônica](https://sites.google.com/a/monde.com.br/
 ### Cursos Recomendados
 - [Ruby On Rails Tutorial (Rails 5)](https://www.railstutorial.org/)
 - [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview)
+
+[Comunicação Eficiente](Teste.md)
