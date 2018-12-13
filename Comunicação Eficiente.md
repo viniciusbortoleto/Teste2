@@ -1,5 +1,6 @@
 # Comunicação eficiente
-Um dos maiores desafios do nosso dia a dia é se comunicar de forma eficiente tanto com a equipe quanto com o restante da empresa, abaixo algumas dicas para uma comunicação eficiente.
+
+tESTE Um dos maiores desafios do nosso dia a dia é se comunicar de forma eficiente tanto com a equipe quanto com o restante da empresa, abaixo algumas dicas para uma comunicação eficiente.
 
 - **Respeite o tempo dos outros**. Não notifique no chat ou interrompa outra pessoa a não ser que seja realmente necessário
 - **Utilize as ferramentas certas e mais eficientes** para cada situação.
